@@ -53,3 +53,9 @@ public class Character {
     }
 }
 
+### UML Diagram
+![Blank diagram](https://github.com/ChrisCayabyab/StrategyPattern/assets/142383617/adedc64a-c547-471b-b291-a72ec615a93a)
+
+## Print
+<img width="458" alt="image" src="https://github.com/ChrisCayabyab/StrategyPattern/assets/142383617/8418cb1a-1d2d-4213-8cac-44557c62cc6a">
+
